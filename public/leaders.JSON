@@ -5,7 +5,7 @@
         "role": "President",
         "age": "67",
         "country": "Turkey",
-        "salary": "17,100",
+        "salary": "17100",
         "img": "https://www.tccb.gov.tr/assets/resim/genel/biyografi-receptayyiperdogan.jpg"
     },
     {
@@ -19,8 +19,8 @@
     },
     {
         "key": "003",
-        "name": "Sheikh Hasina",
-        "role": "Prime Minister",
+        "name": "Abdul Hamid",
+        "role": "President",
         "age": "73",
         "country": "Bangladesh",
         "salary": "8336",
@@ -46,7 +46,7 @@
     },
     {
         "key": "006",
-        "name": "Frank-Walter Steinmeier",
+        "name": "Frank-Walter",
         "role": "President",
         "age": "65",
         "country": "Germany",
@@ -68,7 +68,7 @@
         "role": "Prime Minister",
         "age": "73",
         "country": "Uganda",
-        "salary": "653",
+        "salary": "65993",
         "img": "https://upload.wikimedia.org/wikipedia/commons/0/02/Ruhakana_Rugunda_2015_%28cropped%29.jpg"
     },
     {
@@ -95,16 +95,7 @@
         "role": "Prime Minister",
         "age": "62",
         "country": "Palestine",
-        "salary": "589",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Mohammad_Shtayyeh_01_%28cropped%29.jpg"
-    },
-    {
-        "key": "011",
-        "name": "Mohammad Shtayyeh",
-        "role": "Prime Minister",
-        "age": "62",
-        "country": "Palestine",
-        "salary": "589",
+        "salary": "58009",
         "img": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Mohammad_Shtayyeh_01_%28cropped%29.jpg"
     }
 ]

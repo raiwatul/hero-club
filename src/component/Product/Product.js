@@ -2,7 +2,7 @@ import React from 'react';
 import "./Product.css"
 
 const Product = (props) => {
-    console.log(props.product)
+    console.log(props.product);
     const { name, role, age, country, salary, img } = props.product;
     return (
         <div >
@@ -17,7 +17,9 @@ const Product = (props) => {
                         <p class="card-text text-white fw-bold">Salary : {salary}</p>
 
                     </div>
-                    <button className="btn btn-success p-2">Add to cart  </button>
+                    <button onClick={() => {
+                        props.addToCart(props.product);
+                    }} className="btn btn-success p-2">Add to cart  </button>
                 </div>
             </div>
         </div>
