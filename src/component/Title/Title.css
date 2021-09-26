@@ -1,0 +1,11 @@
+.header{
+    align-items: center;
+    background-color: darkslategray;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 20px;
+    font-style: inherit;
+    font-weight: bold;
+    color: lavenderblush;
+    
+}
